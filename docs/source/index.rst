@@ -1,22 +1,37 @@
-Welcome to Lumache's documentation!
-===================================
+Linux Mint User Guide
+=====================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This is the Linux Mint User Guide.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
-Contents
---------
+This Guide is not final. Content is being added slowly but surely :)
 
 .. toctree::
+   :maxdepth: 1
+   :caption: Software
 
-   usage
-   api
+   snap
+   chromium
+   winiso
+
+.. toctree::
+   :maxdepth: 1
+   :caption: System
+
+   grub
+   bluetooth
+   lost-password
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Drivers
+
+   printers
+   edge
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Upgrade
+
+   upgrade
+   upgrade-to-mint-20
+   upgrade-to-mint-21
