@@ -27,6 +27,19 @@ intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
+# The suffix(es) of source filenames.
+# You can specify multiple suffix as a list of string:
+#
+# source_suffix = ['.rst', '.md']
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.txt': 'restructuredtext',
+    '.md': 'markdown',
+}
+
+# The master toctree document.
+root_doc = 'index'
+
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
