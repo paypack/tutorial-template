@@ -1,7 +1,7 @@
 
-##############################
+#################
 MIUI Recovery ROM
-##############################
+#################
 
 Whether you want to make a USB stick which can boot multiple ISOs or simply boot from a Windows ISO image, we recommend using Ventoy.
 

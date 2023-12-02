@@ -1,6 +1,6 @@
-#########
-Bluetooth
-#########
+#############
+MI Flash Tool
+#############
 
 Enabling/disabling Bluetooth
 ============================
