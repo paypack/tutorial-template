@@ -1,5 +1,5 @@
 MIOS Guide
-=====================
+==========
 
 This is the MIOS User Guide.
 
