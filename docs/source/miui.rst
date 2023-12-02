@@ -8,7 +8,7 @@ Error notification
 
 This means your persist.img is corrupted. Restoring your persist.img will patch this damage. There are several ways for you to restore persist.img.
 
-.. code-block:: cmd
+.. code-block:: bash
 
     fastboot %* flash persist "%~dp0images\persist.img" || @echo "Flash persist error" && exit /B 1
 
