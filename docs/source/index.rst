@@ -3,7 +3,7 @@ MIOS Guide
 
 This is the MIOS User Guide.
 
-This Guide is not final. Content is being added slowly but surely :)
+This Guide is not final. Content is being added slowly but surely
 
 .. toctree::
    :maxdepth: 1
