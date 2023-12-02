@@ -10,7 +10,7 @@ This Guide is not final. Content is being added slowly but surely :)
    :caption: Download
    
    miui-firmware
-   miui-flashboot-rom
+   miui-fashboot-rom
    miui-recovery-rom
 
 .. toctree::
@@ -25,7 +25,7 @@ This Guide is not final. Content is being added slowly but surely :)
    :maxdepth: 1
    :caption: Drivers
 
-   printers
+   usb
    edge
 
 .. toctree::
