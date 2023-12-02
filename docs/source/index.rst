@@ -1,29 +1,25 @@
-Linux Mint User Guide
+MIOS Guide
 =====================
 
-.. figure:: images/qr.png
-      :width: 100px
-      :align: right
-
-This is the Linux Mint User Guide.
+This is the MIOS User Guide.
 
 This Guide is not final. Content is being added slowly but surely :)
 
 .. toctree::
    :maxdepth: 1
-   :caption: Software
-
-   snap
-   chromium
-   winiso
+   :caption: Download
+   
+   miui-firmware
+   miui-flashboot-rom
+   miui-recovery-rom
 
 .. toctree::
    :maxdepth: 1
-   :caption: System
+   :caption: Tools
 
-   grub
-   bluetooth
-   lost-password
+   twrp
+   mi-unlock
+   mi-flash-tool
 
 .. toctree::
    :maxdepth: 1
@@ -34,8 +30,6 @@ This Guide is not final. Content is being added slowly but surely :)
 
 .. toctree::
    :maxdepth: 1
-   :caption: Upgrade
+   :caption: Troubleshoot
 
-   upgrade
-   upgrade-to-mint-20
-   upgrade-to-mint-21
+
