@@ -1,7 +1,7 @@
 
-#####################
-Printers and Scanners
-#####################
+##########
+USB Driver
+##########
 
 Driverless Printing and Scanning (IPP)
 ======================================
