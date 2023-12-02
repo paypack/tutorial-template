@@ -10,8 +10,8 @@ Chromium can be installed from the official repositories.
 
 .. _extensions: http://www.sphinx-doc.org/en/master/ext/builtins.html#builtin-sphinx-extensions
 
-MIUI Fastboot
-=============
+Nothing
+=======
 
 In Linux Mint 18.x and Linux Mint 19.x the package is called `chromium-browser`:
 
@@ -19,8 +19,8 @@ In Linux Mint 18.x and Linux Mint 19.x the package is called `chromium-browser`:
 
     apt install chromium-browser
 
-MIUI Recover
-============
+Something
+=========
 
 In Linux Mint 20.x and LMDE 4, it is called `chromium`:
 
