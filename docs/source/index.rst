@@ -9,9 +9,9 @@ This Guide is not final. Content is being added slowly but surely
    :maxdepth: 1
    :caption: Download
    
+   miui-firmware
    miui-fastboot-rom
    miui-recovery-rom
-   miui-firmware
 
 .. toctree::
    :maxdepth: 1
