@@ -1,5 +1,5 @@
 ########
-Chromium
+MIUI Firmware
 ########
 
 Chromium is an open-source web browser developed by Google.

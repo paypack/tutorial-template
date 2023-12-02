@@ -1,5 +1,5 @@
 ##########
-Snap Store
+MIUI Fastboot ROM
 ##########
 
 .. _snapstore:
