@@ -14,10 +14,5 @@ This means your persist.img is corrupted. Restoring your persist.img will patch 
 
 Add this line to your fastboot ROM bat file before flashing.
 
-Long Term Support
-=================
-
-Each major Linux Mint release is supported for 5 years.
-
 
 .. note:: Make sure you have backed up your data before starting this step.
